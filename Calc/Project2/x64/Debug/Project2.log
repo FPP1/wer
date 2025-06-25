@@ -1,0 +1,9 @@
+﻿  MyForm.cpp
+C:\Users\student\Documents\StudioY\Practika\Project2\Project2\MyForm.h(490,43): error C2275: "System::Drawing::Point": ожидается выражение вместо типа
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\student\Documents\StudioY\Practika\Project2\Project2\MyForm.h(494,43): error C2275: "System::Drawing::Point": ожидается выражение вместо типа
+  (компиляция исходного файла "MyForm.cpp")
+  
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
