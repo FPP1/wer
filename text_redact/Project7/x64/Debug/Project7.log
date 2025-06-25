@@ -1,0 +1,9 @@
+﻿  MyForm.cpp
+G:\!sp\text_redact\Project7\MyForm.h(271,66): warning C4129: "!": нераспознанная escape-последовательность символов
+  (компиляция исходного файла "MyForm.cpp")
+  
+G:\!sp\text_redact\Project7\MyForm.h(271,66): warning C4129: " ": нераспознанная escape-последовательность символов
+  (компиляция исходного файла "MyForm.cpp")
+  
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project7.vcxproj -> G:\!sp\text_redact\x64\Debug\Project7.exe

@@ -1,0 +1,6 @@
+C:\Users\student\Documents\PP\Project3\Project3\x64\Debug\Project3.vcxproj.AssemblyReference.cache
+C:\Users\student\Documents\PP\Project3\Project3\x64\Debug\Project3.MyForm.resources
+C:\Users\student\Documents\PP\Project3\Project3\x64\Debug\Project3.vcxproj.GenerateResource.cache
+C:\Users\student\Documents\StudioY\Practika\Project3\Project3\x64\Debug\Project3.vcxproj.AssemblyReference.cache
+C:\Users\student\Documents\StudioY\Practika\Project3\Project3\x64\Debug\Project3.MyForm.resources
+C:\Users\student\Documents\StudioY\Practika\Project3\Project3\x64\Debug\Project3.vcxproj.GenerateResource.cache
